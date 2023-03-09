@@ -1,0 +1,11 @@
+.section {
+  margin: 0 auto;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.title {
+  display: inline-block;
+  color: darkslategray;
+  margin-top: 0;
+}
